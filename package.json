@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Gerer ses differente tâche de la journéé.",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/homeTodoList"
+  },
+  "author": "Cameldjoulakoko",
+  "license": "ISC",
+  "dependencies": {
+      "react":"^16.0"
+  }
+}
