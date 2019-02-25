@@ -31,8 +31,8 @@ class ListeDeTache extends React.Component{
           },
           {
             id: 5,
-            description: 'Learn Ruby and Ruby on Rail',
-            complete: "danger"
+            description: 'Learn Java and Java EE',
+            complete: "active"
           }
         ]      
     };
@@ -49,7 +49,7 @@ class ListeDeTache extends React.Component{
 }
 
 
-/*utilisons ici les heros fonctions*/
+/*utilisation des heros fonctions*/
 const Tache = (props) =>(
    <article className="col-sm-8 table-responsive">
       <table className="table table-bordered table-striped table-condensed" >

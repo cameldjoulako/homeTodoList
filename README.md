@@ -1,0 +1,1 @@
+This is a small React.JS Application that present todoList to follow if you want to become a Full-Stack developer.
